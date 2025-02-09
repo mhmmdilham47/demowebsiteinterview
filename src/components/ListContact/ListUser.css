@@ -1,0 +1,33 @@
+.table-user {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.header-table{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #135d54;
+    color: #fff;
+    text-align: center;
+}
+
+.header-table, .body-table{
+    border: 1px solid #ddd;
+    
+}
+
+.body-table {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.user-row:nth-child(odd){
+    background-color: #f2f2f2;
+}
+
+.table-user .user-row:hover {
+    background-color: #ddd;
+}

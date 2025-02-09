@@ -1,0 +1,7 @@
+{
+  "name": "sistem-informasi-4",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

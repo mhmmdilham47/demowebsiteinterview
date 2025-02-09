@@ -1,0 +1,79 @@
+.head{
+    text-align: center;
+    width: 100%;
+    height: 5px;
+}
+
+.pic-header{
+    width: 100%;
+   }
+
+.bannerprofile {
+    opacity: 80%;
+}
+
+.coba1{
+    margin-right: -55px;
+}
+
+.coba2 {
+    justify-content: center;
+}
+
+.header {
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 180px;
+    margin-bottom: -75px;
+}
+
+.header img{
+    border-radius: 50%;
+    margin-top: -280px;
+    width: 100px;
+    height: 100px;
+}
+ion-content {
+    background: url(/bk-app-sisfor/src/assets/BK-logo.jpg) no-repeat top center/cover fixed, #fff;
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.title {
+    color: #fff;
+}
+
+.card {
+    margin-top: 5px;
+    padding: 5px;
+}
+    
+.datadiri {
+    border-radius: 10px;
+}
+.hm {
+    font-size: medium;
+    margin-top: 10px;
+    margin-bottom: -10px;
+    text-align: center;
+}
+.univ {
+    text-align: center;
+    font-size: medium;
+}
+
+.playername {
+    margin: 0px;
+    margin-top: 30px;
+    font-size:medium;
+    margin-bottom: -20px;
+}
+
+.button-setting {
+    background-color: none;
+    
+}
